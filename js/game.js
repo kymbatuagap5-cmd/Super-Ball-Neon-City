@@ -1046,3 +1046,8 @@ const canvas = document.getElementById('gameCanvas');
         }, { once: true });
 
         initLevel(0); loop();
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./service-worker.js");
+    });
+}        
