@@ -1,5 +1,7 @@
-<p align ="center">
-  <img src="assets/banner.png" alt="Super Ball: Neon City Banner">
+<p align="center">
+  <a href="https://kymbatuagap5-cmd.github.io/Super-Ball-Neon-City/">
+    <img src="assets/banner.png" alt="Super Ball: Neon City">
+  </a>
 </p>
 # 🎮 Super Ball: Neon City
 
