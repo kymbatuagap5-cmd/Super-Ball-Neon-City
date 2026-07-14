@@ -47,7 +47,7 @@ https://kymbatuagap5-cmd.github.io/Super-Ball-Neon-City/
 
 ## 🎥 Gameplay
 
-![Gameplay](assets/gameplay.MP4)
+![Gameplay](assets/gameplay.mp4)
 
 ---
 
